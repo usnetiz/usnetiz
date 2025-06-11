@@ -23,18 +23,9 @@
 
 ---
 
-## 🚀 Açık Kaynak Katkıları
-
-Şunlara katkıda bulundum:(sonra ekleneccek)
-
-- [**go-..../....**](https://github.com/....)
-
----
-
 ## 👥 Ulaşın
 
 - 🔘 Mastodon: [@usu@qoto.org](https://qoto.org/@usu)
-- 🌐 Website: [netiz.me](https://netiz.me/)
 
 İşbirliği, geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
 
@@ -44,8 +35,10 @@
 
 <p>
  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-c70036?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gimp-8c8073?style=for-the-badge&logo=gimp&logoColor=white"/>
 </p>
 
 ---
