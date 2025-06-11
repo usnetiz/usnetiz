@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 GitHub Stats
+## GitHub İstatistikler 🌟
 
 <p align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myusnet&theme=github" target="_blank">
@@ -17,15 +17,15 @@
 
 ---
 
-## 📖 Hakkımda
+## Hakkımda 📖
 
-- 🌐 Yaşanabilir bir kainat/dünya geleceği için Sevgiyle Yaşayın-Yaşatın,Okuyun-Okutun ve Paylaşın.
+- Yaşanabilir bir kainat/dünya geleceği için Sevgiyle Yaşayın-Yaşatın,Okuyun-Okutun ve Paylaşın.
 
 ---
 
-## 👥 Ulaşın
+## Ulaşın 👥
 
-- 🔘 Mastodon: [@usu@qoto.org](https://qoto.org/@usu)
+- Mastodon: [@usu@qoto.org](https://qoto.org/@usu)
 
 İşbirliği, geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
 
