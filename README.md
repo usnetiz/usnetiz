@@ -31,7 +31,7 @@
 
 ---
 
-## Teknolojiler ve Araçlar
+## Teknolojiler,Araçlar ve Çeviri Durumları
 
 <p>
  
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Debian-c70036?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gimp-8c8073?style=for-the-badge&logo=gimp&logoColor=white"/>
+  <a href="https://hosted.weblate.org/engage/simplex-chat/"><img src="https://hosted.weblate.org/widget/simplex-chat/-/tr/svg-badge.svg" alt="Çeviri durumu" /></a>
 </p>
 
 ---
