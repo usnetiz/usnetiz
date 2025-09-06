@@ -7,14 +7,21 @@
 ## GitHub İstatistikler 🌟
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usnetim&theme=github" target="_blank">
-    <img alt="Profile overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usnetim&theme=github" height="160">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usnetiz&theme=github" target="_blank">
+    <img alt="Profile overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usnetiz&theme=github" height="160">
   </a>
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usnetim&theme=github" target="_blank">
-    <img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usnetim&theme=github" height="160">
+    <img alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usnetiz&theme=github" height="160">
   </a>
 </p>
+<img src="https://github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="128">
+<strong>I joined GitHub 5 years ago.</strong>
+<br><br>
 
+
+
+
+Created by <a href="https://github.com/usnetiz/">My Badges</a>
 ---
 
 ## Hakkımda 📖
