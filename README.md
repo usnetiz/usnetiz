@@ -32,7 +32,7 @@ Created by <a href="https://github.com/usnetiz/">My Badges</a>
 
 ## Ulaşın 👥
 
-- Mastodon: [@usu@qoto.org](https://qoto.org/@usu)
+- Mastodon: [@usnetiz@mastodon.social](https://mastodon.social/@usnetiz)
 
 İşbirliği, geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
 
