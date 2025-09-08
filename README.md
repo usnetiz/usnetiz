@@ -34,7 +34,7 @@ Created by <a href="https://github.com/usnetiz/">My Badges</a>
 
 - Mastodon: [@usnetiz@mastodon.social](https://mastodon.social/@usnetiz)
 
-İşbirliği, geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
+geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
 
 ---
 
