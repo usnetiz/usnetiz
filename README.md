@@ -1,4 +1,4 @@
-## ![Header of wheat with an orange tint](./header.jpg)
+##
 
 #  Merhaba / Hi there 👋
 
@@ -18,23 +18,7 @@
 <strong>I joined GitHub 5 years ago.</strong>
 <br><br>
 
-
-
-
 Created by <a href="https://github.com/usnetiz/">My Badges</a>
----
-
-## Hakkımda 📖
-
-- Yaşanabilir bir kainat/dünya geleceği için Sevgiyle Yaşayın-Yaşatın,Okuyun-Okutun ve Paylaşın.
-
----
-
-## Ulaşın 👥
-
-- Mastodon: [@usnetiz@mastodon.social](https://mastodon.social/@usnetiz)
-
-geri bildirim veya sadece merhaba demek için çekinmeden ulaşınız.
 
 ---
 
